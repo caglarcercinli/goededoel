@@ -18,4 +18,8 @@ public class GoedeDoel {
 	public BigDecimal getOpgebracht() {
 		return opgebracht;
 	}
+
+	public BigDecimal getOpbrengst() {
+		return opbrengst;
+	}
 }
